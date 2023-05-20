@@ -7,7 +7,6 @@
   >
     {{ blok.headline }} 
   </div>
-  <p>test</p>
 </template>
 
 <script setup>
